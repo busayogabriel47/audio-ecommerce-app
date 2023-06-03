@@ -1,0 +1,113 @@
+
+.product-desc{
+    margin-top: 4rem;
+}
+.product-desc small{
+    color: rgb(118, 118, 98);
+    letter-spacing: 0.5rem;
+}
+.product-desc h1, 
+.product-desc p{
+    color: #fff;
+}
+.product-desc h1{
+    font-size: 3.5rem;
+    line-height: 1;
+    margin-top: 1.5rem;
+    font-family: 'Roboto', sans-serif;
+}
+.product-desc p{
+    padding: 1.2rem 0;
+}
+.productBtn{
+    background: #D87C49 ;
+}
+.productBtn, .btnBlack{
+    color: #fff;
+    padding: 0.7rem 1rem;
+    border: 0;
+}
+
+/* Backgroun-white section */
+
+.bgWhite{
+    background-color: #fff;
+}
+.product{
+    margin: 6rem 0;
+    background-color: #F1F1F1;
+    padding: 2rem 0;
+}
+.product img{
+    margin-top: -6rem;
+}
+.product h5{
+    font-family: 'Roboto', sans-serif;
+}
+.fa-chevron-right{
+    color: #D87C49;
+}
+.bigSpeaker{
+    background-color: #D87C49;
+}
+
+.speaker{
+    margin-top: 5rem;
+}
+.btnBlack{
+background-color: black;
+}
+
+.tableSpeaker{
+    background-color: #EAEAEA;
+    display: flex;
+    justify-content: space-around
+}
+.tableSpeaker1{
+    margin-top: 6rem
+}
+.tableSpeaker1 p{
+    color: black;
+    font-weight: bold;
+    font-size: 1.6rem;
+}
+.tableSpeaker1 button{
+    border: 1px solid #000;
+    background-color: transparent;
+    color: #000;
+    font-size: 1rem;
+    padding: 0.8rem 1.2rem;
+}
+.earColumn, .audioGear{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.earColumn{
+    background-image: url("../../assets/earbudblack.png");
+    height: 250px;
+}
+.audioGear{
+    background-image: url('../../assets/customer.png');
+    height: 500px;
+}
+.earPhone{
+    margin-top: 8rem;
+}
+.earPhone1{
+    padding: 10rem 8rem 0 0
+}
+.earPhone1 h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    letter-spacing: 0.3rem;
+}
+.earPhone1 p{
+    font-size: 0.8rem;
+    line-height: 1.5rem;
+}
+#best{
+    color: #D87C49;
+}

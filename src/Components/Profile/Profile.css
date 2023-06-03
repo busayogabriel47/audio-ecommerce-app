@@ -1,0 +1,51 @@
+.profile {
+    background-color: #fff;
+}
+.profileDetails{
+    background-color: #191919;
+    padding: 2.5rem;
+}
+.profileDetails h2{
+    color: #fff;
+}
+.profileDetails p{
+    color: #b0b2c8;
+}
+.signOut{
+    text-align: right;
+}
+
+#v-pills-tab{
+    width: 20%;
+}
+.nav-pills .nav-link{
+    text-align: left;
+    font-size: 1.2rem;
+    border-radius: 0;
+    padding: 0.8rem 1.2rem;
+    background-color: #EFEFEF;
+    color: #383636;
+}
+.nav-pills .nav-link.active, 
+.nav-pills .show>.nav-link {
+    background-color: #EFEFEF;
+    color: #000;
+    border: 2px solid #383636;
+}
+.productB{
+    border: 3px solid #EFEFEF;
+}
+#v-pills-tabContent{
+    margin-left: 2rem;
+}
+.productB p{
+    font-size: 0.8rem;
+    color: green;
+}
+#v-pills-profile,
+#v-pills-home, 
+#v-pills-disabled,
+#v-pills-messages, 
+#v-pills-settings{
+
+}

@@ -1,0 +1,26 @@
+
+.bottom{
+    padding: 4rem 0;
+}
+.bottom .navbar-brand{
+    font-size: 1.4rem;
+}
+.bottom p{
+    margin: 2.5rem 0;
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+    color: rgb(194, 194, 184);
+}
+.siteMap{
+    display: flex;
+    gap: 27px;
+    list-style: none;
+}
+#bottomList, .socials{
+    display: flex;
+    justify-content: right;
+}
+.socials{
+    gap: 25px;
+    margin-top: 4rem;
+}

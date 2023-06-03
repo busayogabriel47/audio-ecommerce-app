@@ -1,0 +1,36 @@
+
+
+.lightBg {
+    background-color: #F1F1F1;
+}
+.checkOut1{
+    border-right: 2rem solid #F1F1F1;
+}
+.checkOut1, .summary{
+    background-color: #fff;
+    padding: 4rem;
+    margin: 2rem 0
+}
+.checkLight a{
+    color: #000;
+    text-decoration: none;
+}
+.checkOut1 h1{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.checkOut1 h4{
+    font-weight: bold;
+    font-size: 1em;
+    color: #D87C49;
+}.summary{
+    height: fit-content;
+}
+.sum1 {
+    background-color: #F1F1F1;
+}
+
+button, input, optgroup, select, textarea, .form-control {
+    padding: 0.6rem !important;
+}

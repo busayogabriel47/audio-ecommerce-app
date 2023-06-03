@@ -1,0 +1,58 @@
+.whiteBg{
+    background-color: #fff;
+}
+.single1{
+    background: #F1F1F1;
+}
+.textDark{
+    padding-left: 4.5rem;
+}
+.textDark h1, 
+.textDark p{
+    color: #000;
+}
+.productBtn{
+    background: #D87C49 ;
+}
+
+.addCartBtn{
+    color: #fff;
+    padding: 0.7rem 1rem;
+    border: 0;
+}
+.back2Home a{
+    text-decoration: none;
+    color: #000;
+}
+.inTheInbox{
+    display: flex;
+    justify-content: center;
+}
+.features h2, .inTheInbox h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.sample{
+    background-image: url('../../assets/customer2.png');
+} .sample2{
+    background-image: url('../../assets/headsetontable.png');
+} .sample3{
+    background-image: url('../../assets/headset2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 720px;
+}
+
+.sample, .sample2{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 350px;
+ }
+ .related1{
+    background-color: #F1F1F1;
+    height: 300px;
+    padding-top: 4rem;
+ }

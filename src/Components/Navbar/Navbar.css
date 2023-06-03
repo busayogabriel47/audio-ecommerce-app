@@ -1,0 +1,33 @@
+
+.navbar>.container, .navbar>.container-fluid,
+ .navbar>.container-lg, .navbar>.container-md,
+  .navbar>.container-sm, .navbar>.container-xl, 
+  .navbar>.container-xxl{
+    padding: 1rem 0;
+  }
+.navbar-brand{
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.nav-link{
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.7rem;
+}
+
+.nav-item{
+    margin-right: 1.2rem;
+}
+
+.navBorder {
+    border-bottom: 0.1rem solid rgb(118, 118, 98);
+}
+
+.sign_in{
+  background-color: transparent;
+  color: #b0b2c8;
+  border: 2px solid #b0b2c8;
+  padding: 0.3rem 0.6rem;
+  margin-right: 1rem;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
